@@ -1,0 +1,25 @@
+{
+  "name": "com.bill.fav",
+  "version": "1.0.0",
+  "displayName": "BillFav",
+  "description": "Favorites for the Unity Project window: pinned assets and folders in pages, drag and drop, keyboard page switching and an overlay inside the Project browser.",
+  "unity": "6000.0",
+  "keywords": [
+    "favorites",
+    "bookmarks",
+    "project-window",
+    "editor",
+    "productivity"
+  ],
+  "author": {
+    "name": "Bill Truong",
+    "url": "https://github.com/billtruong003"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/billtruong003/BillFav#readme",
+  "changelogUrl": "https://github.com/billtruong003/BillFav/blob/main/CHANGELOG.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billtruong003/BillFav.git"
+  }
+}
